@@ -159,7 +159,8 @@ const colors:Record<Borough,string>={Manhattan:"#ef6b73",Bronx:"#e7c85e",Queens:
 const bounds:Record<Borough,[[number,number],[number,number]]>={Manhattan:[[40.695,-74.025],[40.885,-73.905]],Brooklyn:[[40.565,-74.055],[40.745,-73.83]],Queens:[[40.535,-73.97],[40.82,-73.69]],Bronx:[[40.785,-73.94],[40.925,-73.745]],"Staten Island":[[40.49,-74.26],[40.66,-74.045]]};
 const boroughGeo="https://raw.githubusercontent.com/codeforgermany/click_that_hood/main/public/data/new-york-city-boroughs.geojson";
 const neighborhoodGeo="https://raw.githubusercontent.com/veltman/snd3/master/data/nyc-neighborhoods.geo.json";
-const subNeighborhoodGeo="/manhattan-subneighborhoods.geojson";
+const siteBasePath=process.env.NEXT_PUBLIC_BASE_PATH||"";
+const subNeighborhoodGeo=`${siteBasePath}/manhattan-subneighborhoods.geojson`;
 const hoodGeo:Record<string,string[]>={
  "Lower Manhattan":["Battery Park City-Lower Manhattan"],"NoHo · Astor Place":["SoHo-TriBeCa-Civic Center-Little Italy"],SoHo:["SoHo-TriBeCa-Civic Center-Little Italy"],"Greenwich Village":["West Village"],"East Village":["East Village"],"Lower East Side":["Lower East Side"],"West Village":["West Village"],Tribeca:["SoHo-TriBeCa-Civic Center-Little Italy"],"Financial District":["Battery Park City-Lower Manhattan"],
  Midtown:["Midtown-Midtown South"],"Midtown East":["Turtle Bay-East Midtown"],Broadway:["Midtown-Midtown South"],"Times Square":["Midtown-Midtown South"],Chelsea:["Hudson Yards-Chelsea-Flatiron-Union Square"],"Hell’s Kitchen":["Clinton"],"Turtle Bay":["Turtle Bay-East Midtown"],"Upper West Side":["Upper West Side"],"Upper East Side":["Upper East Side-Carnegie Hill"],"Carnegie Hill":["Upper East Side-Carnegie Hill"],Yorkville:["Yorkville"],"Morningside Heights":["Morningside Heights"],Harlem:["Central Harlem North-Polo Grounds","Central Harlem South"],"Washington Heights":["Washington Heights North","Washington Heights South"],

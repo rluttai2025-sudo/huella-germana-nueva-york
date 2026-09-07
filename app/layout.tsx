@@ -1,12 +1,14 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
+const siteBasePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+
 export const metadata: Metadata = {
   title: "Huella germana en Nueva York",
   description: "Mapa interactivo de personalidades alemanas, suizas y danesas en Nueva York.",
   icons: {
-    icon: "/favicon.svg",
-    shortcut: "/favicon.svg",
+    icon: `${siteBasePath}/favicon.svg`,
+    shortcut: `${siteBasePath}/favicon.svg`,
   },
 };
 
