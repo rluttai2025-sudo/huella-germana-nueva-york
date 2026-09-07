@@ -1,0 +1,3022 @@
+{
+  "type": "FeatureCollection",
+  "name": "Manhattan sub-neighborhood canonical boundaries",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marble Hill",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9198,
+              40.8727
+            ],
+            [
+              -73.91,
+              40.8742
+            ],
+            [
+              -73.907,
+              40.8788
+            ],
+            [
+              -73.912,
+              40.8819
+            ],
+            [
+              -73.9217,
+              40.8797
+            ],
+            [
+              -73.923,
+              40.875
+            ],
+            [
+              -73.9198,
+              40.8727
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inwood",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.94,
+              40.8646
+            ],
+            [
+              -73.921,
+              40.8628
+            ],
+            [
+              -73.9155,
+              40.87
+            ],
+            [
+              -73.9215,
+              40.8777
+            ],
+            [
+              -73.9285,
+              40.878
+            ],
+            [
+              -73.9365,
+              40.873
+            ],
+            [
+              -73.9405,
+              40.868
+            ],
+            [
+              -73.94,
+              40.8646
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort George",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.928,
+              40.8507
+            ],
+            [
+              -73.916,
+              40.855
+            ],
+            [
+              -73.92,
+              40.864
+            ],
+            [
+              -73.9295,
+              40.8615
+            ],
+            [
+              -73.934,
+              40.857
+            ],
+            [
+              -73.928,
+              40.8507
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hudson Heights",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9475,
+              40.8455
+            ],
+            [
+              -73.936,
+              40.851
+            ],
+            [
+              -73.9328,
+              40.8608
+            ],
+            [
+              -73.946,
+              40.859
+            ],
+            [
+              -73.9527,
+              40.854
+            ],
+            [
+              -73.9545,
+              40.848
+            ],
+            [
+              -73.9475,
+              40.8455
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Harlem",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9525913,
+              40.8107653
+            ],
+            [
+              -73.941368,
+              40.8308908
+            ],
+            [
+              -73.9457193,
+              40.8327214
+            ],
+            [
+              -73.9581995,
+              40.8155804
+            ],
+            [
+              -73.9525913,
+              40.8107653
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamilton Heights",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-streets-and-coast-extent-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9550768,
+              40.8200972
+            ],
+            [
+              -73.9457193,
+              40.8327214
+            ],
+            [
+              -73.9482768,
+              40.8338655
+            ],
+            [
+              -73.9586416,
+              40.8215829
+            ],
+            [
+              -73.9550768,
+              40.8200972
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manhattanville",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-streets-and-coast-extent-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9525913,
+              40.8107653
+            ],
+            [
+              -73.9480073,
+              40.8171165
+            ],
+            [
+              -73.9586416,
+              40.8215829
+            ],
+            [
+              -73.9610833,
+              40.818736
+            ],
+            [
+              -73.9525913,
+              40.8107653
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morningside Heights",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9610779,
+              40.8018004
+            ],
+            [
+              -73.9557377,
+              40.8105088
+            ],
+            [
+              -73.9603573,
+              40.8179591
+            ],
+            [
+              -73.9680318,
+              40.8057292
+            ],
+            [
+              -73.9610779,
+              40.8018004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Harlem",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.95739999999999,
+              40.79874862252512
+            ],
+            [
+              -73.94864941196505,
+              40.7958
+            ],
+            [
+              -73.9285,
+              40.83005137747488
+            ],
+            [
+              -73.93725058803494,
+              40.833
+            ],
+            [
+              -73.95739999999999,
+              40.79874862252512
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Nicholas Historic District · Strivers’ Row",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9428321,
+              40.8166335
+            ],
+            [
+              -73.9422985,
+              40.8172253
+            ],
+            [
+              -73.9451413,
+              40.8184237
+            ],
+            [
+              -73.9455981,
+              40.8177992
+            ],
+            [
+              -73.9428321,
+              40.8166335
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Astor Row",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "kind": "corridor",
+        "geometry_method": "lion-street-centerline-audited",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9399488,
+            40.8095814
+          ],
+          [
+            -73.9432339,
+            40.8109681
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sugar Hill",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9438428,
+              40.8236478
+            ],
+            [
+              -73.9403464,
+              40.8304578
+            ],
+            [
+              -73.9429797,
+              40.831568
+            ],
+            [
+              -73.947605,
+              40.8252329
+            ],
+            [
+              -73.9438428,
+              40.8236478
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marcus Garvey Park · Mount Morris Historic District",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9429932,
+              40.8025615
+            ],
+            [
+              -73.9411669,
+              40.8050632
+            ],
+            [
+              -73.9427537,
+              40.805744
+            ],
+            [
+              -73.9445992,
+              40.803225
+            ],
+            [
+              -73.9429932,
+              40.8025615
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Petit Senegal",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "kind": "corridor",
+        "geometry_method": "lion-street-centerline-audited",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9553685,
+            40.8044199
+          ],
+          [
+            -73.9496046,
+            40.8019915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Harlem",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-streets-and-coast-extent-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9557774,
+              40.7879139
+            ],
+            [
+              -73.9437957,
+              40.7829197
+            ],
+            [
+              -73.9047398,
+              40.8035391
+            ],
+            [
+              -73.9348734,
+              40.8165278
+            ],
+            [
+              -73.9557774,
+              40.7879139
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lenox Hill",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-streets-and-coast-extent-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9694377,
+              40.7635838
+            ],
+            [
+              -73.9585921,
+              40.7590677
+            ],
+            [
+              -73.9499356,
+              40.7694691
+            ],
+            [
+              -73.9615845,
+              40.7743688
+            ],
+            [
+              -73.9694377,
+              40.7635838
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carnegie Hill",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9539837,
+              40.7788221
+            ],
+            [
+              -73.9483952,
+              40.7864602
+            ],
+            [
+              -73.9548172,
+              40.7892047
+            ],
+            [
+              -73.9604143,
+              40.7815243
+            ],
+            [
+              -73.9539837,
+              40.7788221
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yorkville",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-streets-and-coast-extent-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9572941,
+              40.7742836
+            ],
+            [
+              -73.9477939,
+              40.7702492
+            ],
+            [
+              -73.9437957,
+              40.7829197
+            ],
+            [
+              -73.9493317,
+              40.7851931
+            ],
+            [
+              -73.9572941,
+              40.7742836
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manhattan Valley · Bloomingdale District",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9646854,
+              40.791664
+            ],
+            [
+              -73.9584071,
+              40.8005178
+            ],
+            [
+              -73.9668033,
+              40.8042076
+            ],
+            [
+              -73.9717842,
+              40.7946509
+            ],
+            [
+              -73.9646854,
+              40.791664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lincoln Square",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9832216,
+              40.7688083
+            ],
+            [
+              -73.9815727,
+              40.7736021
+            ],
+            [
+              -73.982227,
+              40.7738759
+            ],
+            [
+              -73.9832216,
+              40.7688083
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sutton Place",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9625496,
+              40.7548129
+            ],
+            [
+              -73.9597218,
+              40.7586631
+            ],
+            [
+              -73.9619657,
+              40.7596195
+            ],
+            [
+              -73.9647863,
+              40.7557557
+            ],
+            [
+              -73.9625496,
+              40.7548129
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rockefeller Center",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9776548,
+              40.7579114
+            ],
+            [
+              -73.9767447,
+              40.7591647
+            ],
+            [
+              -73.9799719,
+              40.7605247
+            ],
+            [
+              -73.9808857,
+              40.7592707
+            ],
+            [
+              -73.9776548,
+              40.7579114
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diamond District",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; street-aligned local geometry",
+        "geometry_method": "lion-street-centerline-audited",
+        "kind": "corridor",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.981794,
+            40.7580213
+          ],
+          [
+            -73.9785653,
+            40.7566548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turtle Bay",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-streets-and-coast-extent-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9760482,
+              40.7514414
+            ],
+            [
+              -73.9685414,
+              40.7482158
+            ],
+            [
+              -73.9625496,
+              40.7548129
+            ],
+            [
+              -73.9709937,
+              40.7583733
+            ],
+            [
+              -73.9760482,
+              40.7514414
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tudor City",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9707803,
+              40.7475435
+            ],
+            [
+              -73.9695655,
+              40.7496025
+            ],
+            [
+              -73.9717128,
+              40.7504938
+            ],
+            [
+              -73.9731459,
+              40.7485397
+            ],
+            [
+              -73.9707803,
+              40.7475435
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Brazil",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "kind": "corridor",
+        "geometry_method": "lion-street-centerline-audited",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9822553,
+            40.7573874
+          ],
+          [
+            -73.979024,
+            40.7560319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murray Hill · Curry Hill · Little India",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9781238,
+              40.7457272
+            ],
+            [
+              -73.975383,
+              40.7494831
+            ],
+            [
+              -73.9802209,
+              40.751522
+            ],
+            [
+              -73.9829569,
+              40.7477644
+            ],
+            [
+              -73.9781238,
+              40.7457272
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Herald Square",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "kind": "point",
+        "geometry_method": "lion-intersection-audited",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9877691,
+          40.749787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Columbus Circle",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "kind": "point",
+        "geometry_method": "lion-intersection-audited",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9832216,
+          40.7688083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Theater District",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9841175,
+              40.7548421
+            ],
+            [
+              -73.9790573,
+              40.7617707
+            ],
+            [
+              -73.9847339,
+              40.7641691
+            ],
+            [
+              -73.9897909,
+              40.7572331
+            ],
+            [
+              -73.9841175,
+              40.7548421
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Times Square",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9883357,
+              40.7541303
+            ],
+            [
+              -73.9823507,
+              40.7623431
+            ],
+            [
+              -73.9880328,
+              40.7647372
+            ],
+            [
+              -73.9940194,
+              40.7565277
+            ],
+            [
+              -73.9883357,
+              40.7541303
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garment District",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9845608,
+              40.7484388
+            ],
+            [
+              -73.9808871,
+              40.753481
+            ],
+            [
+              -73.992633,
+              40.7584297
+            ],
+            [
+              -73.996303,
+              40.7533885
+            ],
+            [
+              -73.9845608,
+              40.7484388
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koreatown",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9859486,
+              40.7465359
+            ],
+            [
+              -73.9836216,
+              40.7497238
+            ],
+            [
+              -73.9868499,
+              40.7510817
+            ],
+            [
+              -73.9891665,
+              40.7478954
+            ],
+            [
+              -73.9859486,
+              40.7465359
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tenderloin",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9895757,
+              40.7415481
+            ],
+            [
+              -73.9808871,
+              40.753481
+            ],
+            [
+              -73.9869487,
+              40.7560359
+            ],
+            [
+              -73.9956449,
+              40.7440985
+            ],
+            [
+              -73.9895757,
+              40.7415481
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madison Square",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9895757,
+              40.7415481
+            ],
+            [
+              -73.9881936,
+              40.7434507
+            ],
+            [
+              -73.9890111,
+              40.7437956
+            ],
+            [
+              -73.9895757,
+              40.7415481
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hudson Yards",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-streets-and-coast-extent-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9990398,
+              40.7496375
+            ],
+            [
+              -73.9935619,
+              40.7571439
+            ],
+            [
+              -74.002183,
+              40.7607761
+            ],
+            [
+              -74.0074071,
+              40.7531432
+            ],
+            [
+              -73.9990398,
+              40.7496375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hell’s Kitchen · Clinton",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-streets-and-coast-extent-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9934642,
+              40.7521901
+            ],
+            [
+              -73.9832216,
+              40.7688083
+            ],
+            [
+              -73.9936282,
+              40.7729936
+            ],
+            [
+              -74.0050171,
+              40.7570613
+            ],
+            [
+              -73.9934642,
+              40.7521901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flower District",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9914186,
+              40.7448027
+            ],
+            [
+              -73.990515,
+              40.7460403
+            ],
+            [
+              -73.993359,
+              40.7472352
+            ],
+            [
+              -73.9942626,
+              40.746004
+            ],
+            [
+              -73.9914186,
+              40.7448027
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chelsea",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-streets-and-coast-extent-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9968399,
+              40.7373609
+            ],
+            [
+              -73.9877691,
+              40.749787
+            ],
+            [
+              -74.0050171,
+              40.7570613
+            ],
+            [
+              -74.0088934,
+              40.7423842
+            ],
+            [
+              -73.9968399,
+              40.7373609
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flatiron District · Toy District · Photo District",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9891751,
+              40.7362469
+            ],
+            [
+              -73.984458,
+              40.7426765
+            ],
+            [
+              -73.9909683,
+              40.7454209
+            ],
+            [
+              -73.9958741,
+              40.7386859
+            ],
+            [
+              -73.9891751,
+              40.7362469
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NoMad",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9870562,
+              40.7421423
+            ],
+            [
+              -73.9852435,
+              40.7446265
+            ],
+            [
+              -73.9900675,
+              40.7466593
+            ],
+            [
+              -73.991871,
+              40.7441856
+            ],
+            [
+              -73.9870562,
+              40.7421423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meatpacking District",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.00455,
+              40.73815
+            ],
+            [
+              -74.0107,
+              40.73695
+            ],
+            [
+              -74.01115,
+              40.73915
+            ],
+            [
+              -74.01005,
+              40.7421
+            ],
+            [
+              -74.00605,
+              40.74105
+            ],
+            [
+              -74.00455,
+              40.73815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brookdale",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "kind": "corridor",
+        "geometry_method": "lion-street-centerline-audited",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9776027,
+            40.7381718
+          ],
+          [
+            -73.974935,
+            40.7370413
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kips Bay",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-streets-and-coast-extent-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9831465,
+              40.7388318
+            ],
+            [
+              -73.9746719,
+              40.7353983
+            ],
+            [
+              -73.9720617,
+              40.743188
+            ],
+            [
+              -73.9781238,
+              40.7457272
+            ],
+            [
+              -73.9831465,
+              40.7388318
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rose Hill",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9831465,
+              40.7388318
+            ],
+            [
+              -73.9790585,
+              40.7444436
+            ],
+            [
+              -73.9838968,
+              40.7464783
+            ],
+            [
+              -73.9879824,
+              40.7408727
+            ],
+            [
+              -73.9831465,
+              40.7388318
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peter Cooper Village",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9743603,
+              40.7325723
+            ],
+            [
+              -73.9751078,
+              40.7352291
+            ],
+            [
+              -73.9785409,
+              40.7368877
+            ],
+            [
+              -73.979849,
+              40.734741
+            ],
+            [
+              -73.9743603,
+              40.7325723
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gramercy Park",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9825563,
+              40.7313501
+            ],
+            [
+              -73.9785409,
+              40.7368877
+            ],
+            [
+              -73.9864166,
+              40.7402071
+            ],
+            [
+              -73.989903,
+              40.7344348
+            ],
+            [
+              -73.9825563,
+              40.7313501
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stuyvesant Square",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9820744,
+              40.7320303
+            ],
+            [
+              -73.980754,
+              40.733835
+            ],
+            [
+              -73.9853608,
+              40.7357899
+            ],
+            [
+              -73.9866793,
+              40.7339781
+            ],
+            [
+              -73.9820744,
+              40.7320303
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Union Square",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.989903,
+              40.7344348
+            ],
+            [
+              -73.9890793,
+              40.7365913
+            ],
+            [
+              -73.9903307,
+              40.7371319
+            ],
+            [
+              -73.991715,
+              40.7352153
+            ],
+            [
+              -73.989903,
+              40.7344348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stuyvesant Town",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9757306,
+              40.7286618
+            ],
+            [
+              -73.9743603,
+              40.7325723
+            ],
+            [
+              -73.979849,
+              40.734741
+            ],
+            [
+              -73.9825563,
+              40.7313501
+            ],
+            [
+              -73.9757306,
+              40.7286618
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waterside Plaza",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.974,
+              40.73899113903022
+            ],
+            [
+              -73.97106189116012,
+              40.738
+            ],
+            [
+              -73.96899999999998,
+              40.74150886096979
+            ],
+            [
+              -73.97193810883986,
+              40.74250000000001
+            ],
+            [
+              -73.974,
+              40.73899113903022
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Germany · histórico",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9812113,
+              40.7250728
+            ],
+            [
+              -73.9799065,
+              40.7268658
+            ],
+            [
+              -73.9822281,
+              40.7278459
+            ],
+            [
+              -73.983535,
+              40.7260528
+            ],
+            [
+              -73.9812113,
+              40.7250728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alphabet City · Loisaida",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-streets-and-coast-extent-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9862857,
+              40.7222419
+            ],
+            [
+              -73.9747424,
+              40.7188408
+            ],
+            [
+              -73.9720502,
+              40.7268809
+            ],
+            [
+              -73.9803738,
+              40.7303933
+            ],
+            [
+              -73.9862857,
+              40.7222419
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NoHo",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9926718,
+              40.7241603
+            ],
+            [
+              -73.9911684,
+              40.72842
+            ],
+            [
+              -73.9928408,
+              40.730079
+            ],
+            [
+              -73.996843,
+              40.7253478
+            ],
+            [
+              -73.9926718,
+              40.7241603
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Village",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-streets-and-coast-extent-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0027835,
+              40.7284355
+            ],
+            [
+              -73.9968399,
+              40.7373609
+            ],
+            [
+              -74.0088934,
+              40.7423842
+            ],
+            [
+              -74.010771,
+              40.7291229
+            ],
+            [
+              -74.0027835,
+              40.7284355
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bowery",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "kind": "corridor",
+        "geometry_method": "lion-street-centerline-audited",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9960587,
+            40.7162316
+          ],
+          [
+            -73.9915521,
+            40.7270943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cooperative Village",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.98899999999999,
+              40.71452288977471
+            ],
+            [
+              -73.98004245087621,
+              40.7115
+            ],
+            [
+              -73.978,
+              40.71497711022529
+            ],
+            [
+              -73.98695754912377,
+              40.718
+            ],
+            [
+              -73.98899999999999,
+              40.71452288977471
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Two Bridges",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.996,
+              40.70984152543268
+            ],
+            [
+              -73.98461727772485,
+              40.706
+            ],
+            [
+              -73.98099999999998,
+              40.71215847456732
+            ],
+            [
+              -73.99238272227512,
+              40.715999999999994
+            ],
+            [
+              -73.996,
+              40.70984152543268
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SoHo",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.000532,
+              40.7184302
+            ],
+            [
+              -73.9960524,
+              40.7252541
+            ],
+            [
+              -74.0053137,
+              40.7286045
+            ],
+            [
+              -74.0062984,
+              40.7225495
+            ],
+            [
+              -74.000532,
+              40.7184302
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nolita",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-street-intersections-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9943987,
+              40.7194571
+            ],
+            [
+              -73.9926718,
+              40.7241603
+            ],
+            [
+              -73.9953291,
+              40.7250837
+            ],
+            [
+              -73.9981954,
+              40.7210637
+            ],
+            [
+              -73.9943987,
+              40.7194571
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Australia",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "kind": "multi-corridor",
+        "geometry_method": "lion-street-centerline-audited",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -73.9968363,
+              40.7205044
+            ],
+            [
+              -73.9949083,
+              40.7249512
+            ]
+          ],
+          [
+            [
+              -73.9960308,
+              40.7201807
+            ],
+            [
+              -73.9941793,
+              40.7246924
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Italy",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "kind": "corridor",
+        "geometry_method": "lion-street-centerline-audited",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9985893,
+            40.7170995
+          ],
+          [
+            -73.9968363,
+            40.7205044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinatown",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0015,
+              40.71347260332722
+            ],
+            [
+              -73.98824675039697,
+              40.709
+            ],
+            [
+              -73.98499999999999,
+              40.71452739667278
+            ],
+            [
+              -73.99825324960301,
+              40.718999999999994
+            ],
+            [
+              -74.0015,
+              40.71347260332722
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Five Points · histórico",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "kind": "point",
+        "geometry_method": "lion-intersection-audited",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0004546,
+          40.714365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tribeca",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-streets-and-coast-extent-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0086009,
+              40.7113922
+            ],
+            [
+              -74.0018841,
+              40.7193976
+            ],
+            [
+              -74.0112649,
+              40.725187
+            ],
+            [
+              -74.0161986,
+              40.7147668
+            ],
+            [
+              -74.0086009,
+              40.7113922
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Civic Center",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "lion-streets-and-coast-extent-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0086009,
+              40.7113922
+            ],
+            [
+              -74.0086009,
+              40.7113922
+            ],
+            [
+              -74.004059,
+              40.7131348
+            ],
+            [
+              -74.0063097,
+              40.7141658
+            ],
+            [
+              -74.0086009,
+              40.7113922
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Radio Row · histórico",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "kind": "corridor",
+        "geometry_method": "lion-street-centerline-audited",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0118162,
+            40.7106219
+          ],
+          [
+            -74.0114937,
+            40.7112841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Street Seaport · histórico",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0085,
+              40.707154877179704
+            ],
+            [
+              -73.99767102136771,
+              40.7035
+            ],
+            [
+              -73.99600000000001,
+              40.706345122820295
+            ],
+            [
+              -74.0068289786323,
+              40.71
+            ],
+            [
+              -74.0085,
+              40.707154877179704
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Battery Park City",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0195,
+              40.70656962386082
+            ],
+            [
+              -74.01645675375589,
+              40.70554254883722
+            ],
+            [
+              -74.012,
+              40.71313037613918
+            ],
+            [
+              -74.0150432462441,
+              40.714157451162784
+            ],
+            [
+              -74.0195,
+              40.70656962386082
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hudson Square",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0135,
+              40.721476131225245
+            ],
+            [
+              -74.00912518814118,
+              40.72
+            ],
+            [
+              -74.00399999999999,
+              40.72872386877475
+            ],
+            [
+              -74.0083748118588,
+              40.730199999999996
+            ],
+            [
+              -74.0135,
+              40.721476131225245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Syria · histórico",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "kind": "corridor",
+        "geometry_method": "lion-street-centerline-audited",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0156576,
+            40.7048331
+          ],
+          [
+            -74.0143818,
+            40.7082241
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ellis Island",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.037,
+              40.698750000000004
+            ],
+            [
+              -74.03732185117933,
+              40.69950929654346
+            ],
+            [
+              -74.03822365814396,
+              40.70011820509432
+            ],
+            [
+              -74.03952680696464,
+              40.70045612384632
+            ],
+            [
+              -74.04097319303536,
+              40.70045612384632
+            ],
+            [
+              -74.04227634185604,
+              40.70011820509432
+            ],
+            [
+              -74.04317814882067,
+              40.69950929654346
+            ],
+            [
+              -74.0435,
+              40.698750000000004
+            ],
+            [
+              -74.04317814882067,
+              40.69799070345655
+            ],
+            [
+              -74.04227634185604,
+              40.69738179490569
+            ],
+            [
+              -74.04097319303536,
+              40.697043876153685
+            ],
+            [
+              -74.03952680696464,
+              40.697043876153685
+            ],
+            [
+              -74.03822365814396,
+              40.69738179490569
+            ],
+            [
+              -74.03732185117933,
+              40.69799070345655
+            ],
+            [
+              -74.037,
+              40.698750000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Governors Island",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.011,
+              40.6894
+            ],
+            [
+              -74.01174273349072,
+              40.690875204712995
+            ],
+            [
+              -74.01382382648605,
+              40.69205822704039
+            ],
+            [
+              -74.01683109299532,
+              40.69271475490142
+            ],
+            [
+              -74.02016890700466,
+              40.69271475490142
+            ],
+            [
+              -74.02317617351393,
+              40.69205822704039
+            ],
+            [
+              -74.02525726650926,
+              40.690875204712995
+            ],
+            [
+              -74.02599999999998,
+              40.6894
+            ],
+            [
+              -74.02525726650926,
+              40.687924795287
+            ],
+            [
+              -74.02317617351393,
+              40.68674177295961
+            ],
+            [
+              -74.02016890700466,
+              40.68608524509858
+            ],
+            [
+              -74.01683109299532,
+              40.68608524509858
+            ],
+            [
+              -74.01382382648605,
+              40.68674177295961
+            ],
+            [
+              -74.01174273349072,
+              40.687924795287
+            ],
+            [
+              -74.011,
+              40.6894
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liberty Island",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.042,
+              40.689
+            ],
+            [
+              -74.04227233561326,
+              40.68986776747823
+            ],
+            [
+              -74.04303540304488,
+              40.69056366296494
+            ],
+            [
+              -74.04413806743162,
+              40.690949855824364
+            ],
+            [
+              -74.04536193256837,
+              40.690949855824364
+            ],
+            [
+              -74.0464645969551,
+              40.69056366296494
+            ],
+            [
+              -74.04722766438672,
+              40.68986776747823
+            ],
+            [
+              -74.04749999999999,
+              40.689
+            ],
+            [
+              -74.04722766438672,
+              40.68813223252177
+            ],
+            [
+              -74.0464645969551,
+              40.68743633703506
+            ],
+            [
+              -74.04536193256837,
+              40.687050144175636
+            ],
+            [
+              -74.04413806743162,
+              40.687050144175636
+            ],
+            [
+              -74.04303540304488,
+              40.68743633703506
+            ],
+            [
+              -74.04227233561326,
+              40.68813223252177
+            ],
+            [
+              -74.042,
+              40.689
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Randalls and Wards Islands",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.931,
+              40.7775
+            ],
+            [
+              -73.921,
+              40.783
+            ],
+            [
+              -73.916,
+              40.794
+            ],
+            [
+              -73.923,
+              40.8035
+            ],
+            [
+              -73.936,
+              40.798
+            ],
+            [
+              -73.939,
+              40.787
+            ],
+            [
+              -73.931,
+              40.7775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roosevelt Island",
+        "borough": "Manhattan",
+        "source": "Wikipedia boundary specification; local canonical geometry",
+        "geometry_method": "source-extent-topography-audited",
+        "kind": "area",
+        "audit_status": "verified",
+        "audit_date": "2026-09-03",
+        "audit_source_url": "https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9598,
+              40.7482
+            ],
+            [
+              -73.954,
+              40.752
+            ],
+            [
+              -73.945,
+              40.763
+            ],
+            [
+              -73.9405,
+              40.7718
+            ],
+            [
+              -73.948,
+              40.7685
+            ],
+            [
+              -73.958,
+              40.757
+            ],
+            [
+              -73.9598,
+              40.7482
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
